@@ -1,0 +1,27 @@
+body{
+    background-color: #333341;
+    color: #a8a8b3;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    align-content: space-between;
+    width: 100%;
+    padding-bottom: 10px;
+    border-bottom: 2px solid #a8a8b34d;
+}
+
+header img {
+    border-radius: 8px;
+}
+
+header strong{
+    font-size: 25px;
+}
+
+main {
+    padding: 15px;
+    text-align: center;
+}

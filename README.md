@@ -92,12 +92,12 @@
 
 
 ---
+<a  href="https://github.com/rfsants001">
+  <img align="center" alt="Rafael's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfsants001&layout=compact" />
+</a>
 
 <a href="https://github.com/rfsants001">
-<img align="center" alt="Rafael's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=rfsants001&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical"/></a>
-
-<a href="https://github.com/rfsants001">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=rfsants001&layout=compact&theme=radical" />
+  <img align="center" alt="Rafael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rfsants001&show_icons=true&theme=radical" />
 </a>
 
 ---

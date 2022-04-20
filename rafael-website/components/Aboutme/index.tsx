@@ -1,6 +1,19 @@
 import React from 'react';
+import Skills from '../Skills';
 
 const AboutMe: React.FC = () => {
+    const frontEndTechs = [
+        'Javascript',
+        'TypeScript',
+        'NextJs',
+        'React',
+    ]
+
+    const backEndTechs = [
+        'Java',
+        'PHP',
+        'NodeJS',
+    ]
     return (
         <section className={`flex flex-col bg-white py-20 text-3xl md:text-4xl`}>
             <div className="container mx-auto px-11">
@@ -13,8 +26,9 @@ const AboutMe: React.FC = () => {
             <div className="container mx-auto px-11 text-center mt-28">
                 <h2>My skills</h2>
 
-                <div className="mt-10 grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4xl:grid-cols-5gap-6lg:gap-20">
-                    <div>React</div>
+                <div className="mt-10">
+                    <Skills id='js' name={frontEndTechs} stack="Front-end"/>
+                    <Skills id='js' name={backEndTechs} stack="Back-end"/>
                 </div>
             </div>
         </section>

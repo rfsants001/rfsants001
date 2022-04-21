@@ -9,3 +9,13 @@ body {
   line-height: 1.1;
   letter-spacing: 0em;
 }
+
+.item {
+  width: 7%;
+  overflow: visible;
+  stroke: #fff;
+  stroke-width: 2;
+  stroke-linejoin: round;
+  stroke-linecap: round;
+}
+

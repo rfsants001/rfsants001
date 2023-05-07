@@ -92,14 +92,17 @@
 
 
 ---
-<a  href="https://github.com/rfsants001">
-  <img align="center" alt="Rafael's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfsants001&layout=compact" />
-</a>
 
-<a href="https://github.com/rfsants001">
-  <img align="center" alt="Rafael's Github Stats" src="https://github-readme-stats.vercel.app/api?username=rfsants001&show_icons=true&theme=radical" />
-</a>
+<div>
+<a href="https://github.com/seu-usuário-aqui">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfsants001&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfsants001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
+---
+    
+---
+    ![Snake animation](https://github.com/seu-usuário-aqui/rfsants001/blob/output/github-contribution-grid-snake.svg)
 ---
 
 [instagram]: https://www.instagram.com/eu_mesm

@@ -1,96 +1,35 @@
-# Hi there, I'm Rafael Santos 👋
+# Hi there, I'm Rafa 👋
 
 ## I'm a Student, Developer, and Code lover!
 
-- 🌱 I’m currently learning Fullstack Development
-- 👯 I’m looking to collaborate with other content creators
+<p><em>Developer Consultant and UX/UI Designer at <a href="https://www.ibm.com/br-pt">IBM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+</em></p>
 
-### Connect with me:
+<img align='right' src="https://github.com/rfsants001.png" width="230">
 
-[<img align="left" alt="Rafael | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Rafael | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
+[![Linkedin: rafadevx](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rafadevx/)](https://www.linkedin.com/in/rafadevx/)
+[![GitHub rafadevx](https://img.shields.io/badge/Github-12100E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rfsants001)
+[![Instagram rafa.devx](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/rafa.devx/)](https://www.instagram.com/rafa.devx/)
+[![Medium rafa.devx](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white&link=https://medium.com/@rf.sants001)](https://medium.com/@rf.sants001)
 ---
 
-### Languages:
+### <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="50"> My background dev...
 
-#### Front-end:
+```ts
+  interface Rafa {
+  Frontend: string[];
+  Backend: string[];
+  Tools: string[];
+  OperatingSystems: string[];
+}
 
-[<code>
-<img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
-</code>](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[<code>
-<img alt="react" width="26px" src="https://img.icons8.com/color/240/000000/react-native.png" />
-</code>](https://reactjs.org/)
-[<code>
-<img alt="typescript" width="26px" src="https://img.icons8.com/color/240/000000/typescript.png">
-</code>](https://www.typescriptlang.org/)
-[<code>
-<img alt="html5" width="26px" src="https://img.icons8.com/color/240/000000/html-5.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<code>
-<img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
-</code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
-[<code>
-<img alt="markdown" width="26px" src="https://img.icons8.com/ios-filled/100/000000/markdown.png">
-</code>](https://www.markdownguide.org/)
-
-#### Back-end:
-
-[<code>
-<img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
-</code>](https://nodejs.org/en/)
-[<code>
-<img alt="java" width="26px" src="https://img.icons8.com/color/240/000000/java-coffee-cup-logo.png">
-</code>](https://docs.oracle.com/en/java/)
-[<code>
-<img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
-</code>](https://www.json.org/json-en.html)
-[<code>
-<img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
-</code>](https://dev.mysql.com/)
-[<code>
-    <img alt="SQLite" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/1024px-Sqlite-square-icon.svg.png">
-</code>](https://www.sqlite.org/index.html)
-
-
-
-
-
-#### Tools:
-
-[<code>
-<img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
-</code>](https://code.visualstudio.com/)
-[<code>
-<img alt="eslint" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/eslint/eslint.png">
-</code>](https://eslint.org/)
-[<code>
-<img alt="Git" width="26px" src="https://img.icons8.com/color/240/000000/git.png">
-</code>](https://git-scm.com/)
-[<code>
-<img alt="github" width="26px" src="https://img.icons8.com/ios-glyphs/240/000000/github.png">
-</code>](https://github.com/)
-[<code>
-<img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
-</code>](https://docs.microsoft.com/en-us/windows/terminal/)
-
-
-#### SO:
-
-[<code>
-<img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
-</code>](https://www.microsoft.com/en-us/windows)
-[<code>
-<img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
-</code>](https://ubuntu.com/)
-
-
+const rafa: Rafa = {
+  Frontend: ["TypeScript", "React", "HTML5", "CSS3", "Sass", "Markdown"],
+  Backend: ["TypeScript", "Node.js", "Java", "JSON", "MySQL", "SQLite"],
+  Tools: ["TypeScript", "Visual Studio Code", "ESLint", "Git", "GitHub", "Terminal"],
+  OperatingSystems: ["Windows 10", "Ubuntu"],
+};
+```
 ---
 
 <div>
@@ -98,12 +37,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfsants001&layout=compact&langs_count=7&theme=dracula"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfsants001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
-
----
-    
----
-    ![Snake animation](https://github.com/seu-usuário-aqui/rfsants001/blob/output/github-contribution-grid-snake.svg)
----
-
-[instagram]: https://www.instagram.com/eu_mesm
-[linkedin]: https://www.linkedin.com/in/rafael-santos-98047b178

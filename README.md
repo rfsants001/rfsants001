@@ -32,8 +32,16 @@ const rafa: Rafa = {
 ```
 ---
 
-<div>
+<p align="center">
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rfsants001&theme=dracula" alt="Rafa.devx github stats" /></a>
+</p>
+
+<div align="center">
 <a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfsants001&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=rfsants001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://readme-stats.clckblog.space/api/top-langs/?username=rfsants001&layout=compact&langs_count=7&theme=dracula"/>
+<img height="180em" src="https://readme-stats.clckblog.space/api?username=rfsants001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+  
+<a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=rfsants001&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>

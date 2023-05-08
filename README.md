@@ -2,6 +2,11 @@
 
 ## I'm a Student, Developer, and Code lover!
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=Student;Web%20and%20app%20developer;UX%20UI%20Designer&font=Fira%20Code&center=true&color=a371f7&vCenter=true&size=22&pause=1000&width=575&duration=2500"></a>
+</p>
+
 <p><em>Developer Consultant and UX/UI Designer at <a href="https://www.ibm.com/br-pt">IBM</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 
@@ -43,5 +48,9 @@ const rafa: Rafa = {
 </div>
   
 <a href="https://github.com/Zo-Bro-23#gh-light-mode-only" align="center">
-  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=rfsants001&repo=Zo-Bro-23&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+  <img alt="GitHub Snake Light" src="https://githubusercontent.zohan.tech/snk.svg?user=rfsants001&repo=rfsants001&branch=output&path=github-contribution-grid-snake.svg#gh-light-mode-only" />
+</a>
+
+<a href="https://github.com/Zo-Bro-23#gh-dark-mode-only" align="center">
+  <img alt="GitHub Snake Dark" src="https://githubusercontent.zohan.tech/snk.svg?user=rfsants001&repo=rfsants001&branch=output&path=github-contribution-grid-snake-dark.svg#gh-dark-mode-only" />
 </a>

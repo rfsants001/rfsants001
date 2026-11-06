@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 360" width="820" height="360" font-family="'JetBrains Mono','DejaVu Sans Mono','Courier New',monospace">
+  <defs>
+    <!-- gradiente neon que flui pelas letras -->
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#a371f7">
+        <animate attributeName="stop-color" values="#a371f7;#39d0d8;#3fb950;#f778ba;#a371f7" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#39d0d8">
+        <animate attributeName="stop-color" values="#39d0d8;#3fb950;#f778ba;#a371f7;#39d0d8" dur="7s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f778ba">
+        <animate attributeName="stop-color" values="#f778ba;#a371f7;#39d0d8;#3fb950;#f778ba" dur="7s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+    <!-- glow neon -->
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.2" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="screen"><rect x="8" y="8" width="804" height="344" rx="12"/></clipPath>
+  </defs>
+
+  <!-- janela de terminal -->
+  <rect x="8" y="8" width="804" height="344" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+  <rect x="8" y="8" width="804" height="36" rx="12" fill="#161b22"/>
+  <rect x="8" y="30" width="804" height="14" fill="#161b22"/>
+  <circle cx="30" cy="26" r="6" fill="#ff5f56"/>
+  <circle cx="52" cy="26" r="6" fill="#ffbd2e"/>
+  <circle cx="74" cy="26" r="6" fill="#27c93f"/>
+  <text x="410" y="31" fill="#8b949e" font-size="13" text-anchor="middle">rafa@dev — ~/portfolio</text>
+
+  <!-- scanline sutil -->
+  <g clip-path="url(#screen)">
+    <rect x="8" y="44" width="804" height="3" fill="#ffffff" opacity="0.05">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="0 308" dur="4s" repeatCount="indefinite"/>
+    </rect>
+  </g>
+
+  <!-- ASCII art "RAFA" (ANSI Shadow) com gradiente neon + glow -->
+  <g fill="url(#neon)" filter="url(#glow)" font-size="26" xml:space="preserve" letter-spacing="0">
+    <text x="48" y="110">██████╗  █████╗ ███████╗ █████╗ </text>
+    <text x="48" y="140">██╔══██╗██╔══██╗██╔════╝██╔══██╗</text>
+    <text x="48" y="170">██████╔╝███████║█████╗  ███████║</text>
+    <text x="48" y="200">██╔══██╗██╔══██║██╔══╝  ██╔══██║</text>
+    <text x="48" y="230">██║  ██║██║  ██║██║     ██║  ██║</text>
+    <text x="48" y="260">╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝  ╚═╝</text>
+    <animate attributeName="opacity" values="0;1" dur="0.9s" fill="freeze"/>
+  </g>
+
+  <!-- subtítulo digitando -->
+  <text x="50" y="300" fill="#c9d1d9" font-size="18" xml:space="preserve">
+    <tspan fill="#3fb950">$</tspan> whoami<tspan fill="#8b949e"> → </tspan><tspan fill="#a371f7">full-stack</tspan> · <tspan fill="#39d0d8">ui/ux</tspan> · <tspan fill="#f778ba">ai</tspan>
+  </text>
+
+  <!-- prompt + cursor piscando -->
+  <text x="50" y="330" fill="#c9d1d9" font-size="18" xml:space="preserve"><tspan fill="#3fb950">$</tspan> building in public </text>
+  <rect x="266" y="316" width="11" height="18" fill="#39d0d8">
+    <animate attributeName="opacity" values="1;1;0;0" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>

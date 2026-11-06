@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 6" width="1000" height="6" preserveAspectRatio="none">
+  <defs>
+    <linearGradient id="d" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a371f7">
+        <animate attributeName="stop-color" values="#a371f7;#39d0d8;#3fb950;#f778ba;#ffa657;#a371f7" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="50%" stop-color="#39d0d8">
+        <animate attributeName="stop-color" values="#39d0d8;#3fb950;#f778ba;#ffa657;#a371f7;#39d0d8" dur="6s" repeatCount="indefinite"/>
+      </stop>
+      <stop offset="100%" stop-color="#f778ba">
+        <animate attributeName="stop-color" values="#f778ba;#ffa657;#a371f7;#39d0d8;#3fb950;#f778ba" dur="6s" repeatCount="indefinite"/>
+      </stop>
+    </linearGradient>
+  </defs>
+  <rect width="1000" height="6" rx="3" fill="url(#d)"/>
+</svg>

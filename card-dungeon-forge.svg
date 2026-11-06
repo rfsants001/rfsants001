@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 370 150" width="370" height="150" font-family="'JetBrains Mono','DejaVu Sans Mono',monospace">
+  <defs>
+    <linearGradient id="neon" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a371f7"><animate attributeName="stop-color" values="#a371f7;#39d0d8;#3fb950;#f778ba;#ffa657;#a371f7" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="50%" stop-color="#39d0d8"><animate attributeName="stop-color" values="#39d0d8;#3fb950;#f778ba;#ffa657;#a371f7;#39d0d8" dur="6s" repeatCount="indefinite"/></stop>
+      <stop offset="100%" stop-color="#f778ba"><animate attributeName="stop-color" values="#f778ba;#ffa657;#a371f7;#39d0d8;#3fb950;#f778ba" dur="6s" repeatCount="indefinite"/></stop>
+    </linearGradient>
+  </defs>
+<rect x="1.5" y="1.5" width="367" height="147" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/><rect x="1.5" y="1.5" width="367" height="4" rx="2" fill="url(#neon)"/>
+<text x="26" y="44" fill="#8b949e" font-size="18">▦</text><text x="48" y="44" fill="url(#neon)" font-size="18" font-weight="700">dungeon-forge</text>
+<text x="26" y="76" fill="#8b949e" font-size="13">Gerador procedural de dungeons pra</text>
+<text x="26" y="95" fill="#8b949e" font-size="13">mestres de RPG (D&D e similares).</text>
+<text x="26" y="114" fill="#8b949e" font-size="13">React + TypeScript + Canvas.</text>
+<circle cx="31" cy="126" r="6" fill="#3178c6"/><text x="44" y="131" fill="#c9d1d9" font-size="13">TypeScript</text><text x="344" y="131" fill="#c9d1d9" font-size="13" text-anchor="end">★ 0</text>
+</svg>

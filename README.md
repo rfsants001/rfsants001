@@ -45,12 +45,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=rfsants001&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a371f7&icon_color=39d0d8" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rfsants001&layout=compact&langs_count=8&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a371f7" />
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=rfsants001&hide_border=true&theme=tokyonight&background=0d1117&ring=a371f7&fire=f778ba&currStreakLabel=39d0d8" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=rfsants001&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=6&margin-h=6" />
+<img src="https://raw.githubusercontent.com/rfsants001/rfsants001/master/stats.svg" width="720" alt="overview & top languages" />
 
 </div>
 
@@ -58,8 +53,8 @@
 
 <div align="center">
 
-<a href="https://github.com/rfsants001/gatewright"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rfsants001&repo=gatewright&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a371f7&icon_color=39d0d8" /></a>
-<a href="https://github.com/rfsants001/dungeon-forge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=rfsants001&repo=dungeon-forge&hide_border=true&theme=tokyonight&bg_color=0d1117&title_color=a371f7&icon_color=39d0d8" /></a>
+<a href="https://github.com/rfsants001/gatewright"><img src="https://raw.githubusercontent.com/rfsants001/rfsants001/master/card-gatewright.svg" width="370" alt="gatewright" /></a>
+<a href="https://github.com/rfsants001/dungeon-forge"><img src="https://raw.githubusercontent.com/rfsants001/rfsants001/master/card-dungeon-forge.svg" width="370" alt="dungeon-forge" /></a>
 
 **Chegando — publicando 1 por semana nos próximos 60 dias:**
 

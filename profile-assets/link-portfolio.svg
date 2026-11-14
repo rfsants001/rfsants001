@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="33" viewBox="0 0 120 33">
+  <style>
+    text {font-family: system-ui, sans-serif}
+    .mono {font-family: ui-monospace, 'DejaVu Sans Mono', monospace}
+.surface {fill:#2e231f;stroke:#2e231f}
+    .ink {fill:#fff4e9}
+    .stroke {stroke:#fff4e9}
+    @media (prefers-color-scheme:dark) {
+      .surface {fill:#f3c7ae;stroke:#f3c7ae}
+      .ink {fill:#32221b}
+      .stroke {stroke:#32221b}
+    }
+  </style>
+<rect x=".5" y=".5" width="119" height="32" rx="6" class="surface"/>
+  <g transform="translate(10 7)" class="stroke" fill="none" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="4" width="14" height="12" rx="2"/><path d="M3 8h14m-11-2h.1"/></g>
+  <text x="36" y="21" class="ink" font-size="12.5" font-weight="650">Portfólio</text>
+  <path d="M98 20l7-7m-5 0h5v5" fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" class="stroke"/>
+</svg>

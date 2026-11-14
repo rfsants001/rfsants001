@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="125" height="33" viewBox="0 0 125 33">
+  <style>
+    text {font-family: system-ui, sans-serif}
+    .mono {font-family: ui-monospace, 'DejaVu Sans Mono', monospace}
+.surface {fill:#f6f1e8;stroke:#d6cabe}
+    .ink {fill:#493830}
+    .stroke {stroke:#493830}
+    @media (prefers-color-scheme:dark) {
+      .surface {fill:#26221f;stroke:#554940}
+      .ink {fill:#f0dfce}
+      .stroke {stroke:#f0dfce}
+    }
+  </style>
+<rect x=".5" y=".5" width="124" height="32" rx="6" class="surface"/>
+  <g transform="translate(10 7)" class="stroke" fill="none" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><path d="M10 3v9m-4-4 4 4 4-4M4 13v3h12v-3"/></g>
+  <text x="36" y="21" class="ink" font-size="12.5" font-weight="650">Instalação</text>
+  <path d="M103 20l7-7m-5 0h5v5" fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" class="stroke"/>
+</svg>

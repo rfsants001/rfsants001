@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="130" height="33" viewBox="0 0 130 33">
+  <style>
+    text {font-family: system-ui, sans-serif}
+    .mono {font-family: ui-monospace, 'DejaVu Sans Mono', monospace}
+.surface {fill:#2e231f;stroke:#2e231f}
+    .ink {fill:#fff4e9}
+    .stroke {stroke:#fff4e9}
+    @media (prefers-color-scheme:dark) {
+      .surface {fill:#f3c7ae;stroke:#f3c7ae}
+      .ink {fill:#32221b}
+      .stroke {stroke:#32221b}
+    }
+  </style>
+<rect x=".5" y=".5" width="129" height="32" rx="6" class="surface"/>
+  <g transform="translate(10 7)" class="stroke" fill="none" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><path d="m7 5-5 5 5 5m6-10 5 5-5 5m-1-12-4 14"/></g>
+  <text x="36" y="21" class="ink" font-size="12.5" font-weight="650">Ver código</text>
+  <path d="M108 20l7-7m-5 0h5v5" fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" class="stroke"/>
+</svg>

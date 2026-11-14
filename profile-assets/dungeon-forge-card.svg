@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="220" viewBox="0 0 400 220">
+  <style>
+    text {font-family: system-ui, sans-serif}
+    .mono {font-family: ui-monospace, 'DejaVu Sans Mono', monospace}
+.surface {fill:#eeece2;stroke:#bdb6a3}
+    .ink {fill:#282b21}
+    .accent {fill:#4b533a}
+    .room {fill:#d1d5bc;stroke:#536040}
+    .grid {stroke:#cecab9}
+    @media (prefers-color-scheme:dark) {
+      .surface {fill:#22251d;stroke:#505642}
+      .ink {fill:#ebe9d9}
+      .accent {fill:#c4cc9c}
+      .room {fill:#404935;stroke:#becd90}
+      .grid {stroke:#383f32}
+    }
+  </style>
+<defs><pattern id="squares" x="236" y="30" width="17" height="17" patternUnits="userSpaceOnUse"><path d="M17 0H0v17" class="grid" fill="none"/></pattern></defs>
+  <rect x=".5" y=".5" width="399" height="219" rx="10" class="surface"/>
+  <g transform="translate(22 22)">
+    <rect width="39" height="39" rx="8" fill="#38402d"/>
+    <path d="M9 30V10h5v4h3v-4h5v4h3v-4h5v20h-8v-6a2.5 2.5 0 0 0-5 0v6z" fill="#dce5b6"/>
+  </g>
+  <text x="21" y="110" class="ink" font-size="42" font-weight="730" letter-spacing="-1.4">Dungeon</text>
+  <text x="21" y="154" class="ink" font-size="42" font-weight="730" letter-spacing="-1.4">Forge</text>
+  <text x="23" y="195" class="mono accent" font-size="14">Mapas para RPG</text>
+  <rect x="236" y="30" width="136" height="153" fill="url(#squares)" class="grid"/>
+  <path class="room" stroke-width="1.4" d="M253 47h51v34h-17v17h17v17h17V98h17V81h17v51h-34v17h17v17h-51v-34h17v-17h-34V81h-17z"/>
+  <path class="grid" fill="none" d="M270 47v34m17-34v51m-34-34h51m-34 34h34m-17 17v17m17 0v34m17-51v17m17-34v34m-51 17h51"/>
+  <path d="m261 55 4 4-4 4-4-4zm85 42 4 4-4 4-4-4zm-29 53 4 4-4 4-4-4z" class="accent"/>
+</svg>

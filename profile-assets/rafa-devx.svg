@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="162" viewBox="0 0 820 162">
+  <style>
+    text {font-family: system-ui, sans-serif}
+    .mono {font-family: ui-monospace, 'DejaVu Sans Mono', monospace}
+.surface {fill:#f6f1e6;stroke:#d6caba}
+    .ink {fill:#281e19}
+    .soft {fill:#5c4c43}
+    .accent {fill:#9f3c29}
+    .line {stroke:#c4b2a0}
+    @media (prefers-color-scheme:dark) {
+      .surface {fill:#211d19;stroke:#4c4036}
+      .ink {fill:#f5e9d6}
+      .soft {fill:#cab9a7}
+      .accent {fill:#ff9577}
+      .line {stroke:#57483f}
+    }
+  </style>
+<rect x=".5" y=".5" width="819" height="161" rx="10" class="surface"/>
+  <path d="M33 118H787" class="line" stroke-width="1"/>
+  <text x="30" y="94" font-size="70" font-weight="760" letter-spacing="-4" class="ink">rafa<tspan class="accent">.</tspan>devx</text>
+  <path d="M680 88v-38h15v8c6-7 14-9 24-8v14c-12-1-24 4-24 15v9z" class="accent"/>
+  <path d="M723 89h25v-6h-25z" class="accent"/>
+  <text x="34" y="143" class="mono soft" font-size="15">Rafael Santos</text>
+  <text x="786" y="143" text-anchor="end" class="mono soft" font-size="15">front-end / design</text>
+</svg>

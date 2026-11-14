@@ -29,17 +29,21 @@ O Gatewright leva as regras do projeto pra dentro do fluxo do agente. Se ele ten
 ## Outros projetos
 
 <p>
-  <a href="https://github.com/rfsants001/forja"><img src="profile-assets/forja-card.svg" width="49%" alt="Forja. Diário de treino com uma captura da tela inicial do app." /></a>
+  <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-card-current.webp" width="49%" alt="Forja. Caderno de treino, agenda e últimos registros na versão desktop." /></a>
   <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/dungeon-forge-card.svg" width="49%" alt="Dungeon Forge. Gerador de masmorras com uma ilustração de mapa em grade." /></a>
 </p>
 
-- **[Forja](https://github.com/rfsants001/forja)** guarda os treinos no seu dispositivo e usa o histórico pra sugerir carga e repetições na próxima sessão. É instalável como PWA. Licença a definir.
+- **[Forja](https://github.com/rfsants001/forja)** é meu diário de treino de força. Dá pra planejar a semana, registrar séries e ver o que tentar no próximo treino. Roda no desktop e no celular, com instalação como PWA. [Ver as telas](https://github.com/rfsants001/forja#telas) · [Rodar localmente](https://github.com/rfsants001/forja#rodar-localmente).
 - **[Dungeon Forge](https://github.com/rfsants001/dungeon-forge)** gera mapas de masmorras pra sessões de D&D e outros RPGs de mesa. Usa React, TypeScript e Canvas. [Licença MIT](https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE).
 
 <details>
-  <summary>Ver duas telas da Forja</summary>
+  <summary>Ver a Forja no desktop e no celular</summary>
   <br />
-  <a href="https://github.com/rfsants001/forja#screenshots">
-    <img src="profile-assets/forja-preview.webp" width="640" alt="Forja no celular. À esquerda, a rotina e a agenda da semana. À direita, um treino guiado com metas e registro das séries." />
+  <a href="https://github.com/rfsants001/forja#telas">
+    <img src="profile-assets/forja-desktop-current.webp" width="820" alt="Forja no desktop com sessão de hoje, agenda semanal e últimos treinos." />
   </a>
+  <p>
+    <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-mobile-current.webp" width="220" alt="Tela Hoje da Forja no celular, com agenda semanal." /></a>
+    <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-treino-current.webp" width="220" alt="Treino guiado no celular com registro de séries e carga." /></a>
+  </p>
 </details>

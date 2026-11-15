@@ -2,7 +2,7 @@
   <img src="profile-assets/rafael-santos-banner.webp" width="100%" alt="rafa.devx — Rafael Santos, front-end e design" />
 </p>
 
-Sou o Rafa. Trabalho com front-end e design. Nos meus projetos, vou de uma CLI pra agentes de código a um caderno de treino que roda no navegador.
+Sou o Rafa, desenvolvedor front-end e designer. Aqui estão os projetos que construo para treinar, acompanhar hábitos e trabalhar com agentes de código.
 
 <p>
   <a href="https://rfsants001.github.io/rfsants001/"><img src="profile-assets/link-portfolio.svg" width="120" height="33" alt="Portfólio" /></a>&nbsp;
@@ -19,9 +19,9 @@ Sou o Rafa. Trabalho com front-end e design. Nos meus projetos, vou de uma CLI p
   </a>
 </p>
 
-A Forja é meu diário de treino de força. Planeje a semana no PC, registre séries no celular mesmo offline e acompanhe sua evolução. Você pode sincronizar os aparelhos usando um servidor que roda na sua própria máquina.
+A Forja é meu diário de treino de força. Dá pra planejar a semana no PC, registrar séries no celular mesmo offline e acompanhar a evolução da carga. Pra sincronizar os aparelhos, use seu próprio servidor.
 
-**[Conhecer a Forja](https://github.com/rfsants001/forja)** · [Ver as telas](https://github.com/rfsants001/forja#telas) · [Rodar localmente](https://github.com/rfsants001/forja#rodar-localmente).
+**[Conhecer a Forja](https://github.com/rfsants001/forja)** · [Rodar localmente](https://github.com/rfsants001/forja#rodar-localmente) · [Sincronizar PC e celular](https://github.com/rfsants001/forja#sincronizar-pc-e-celular)
 
 <details>
   <summary>Ver a Forja no desktop e no celular</summary>
@@ -37,7 +37,7 @@ A Forja é meu diário de treino de força. Planeje a semana no PC, registre sé
 
 ## Gatewright
 
-O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de código. Ele pode bloquear ações como a leitura de um `.env` e registra o motivo no histórico. No desktop, dá pra conectar agentes, acompanhar execuções, revisar mudanças e ver o consumo por dia e por modelo.
+O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de código. Ele pode bloquear ações como a leitura de um `.env` e registra o motivo no histórico. No desktop, dá pra conectar agentes, acompanhar execuções, revisar mudanças e ver o consumo por dia e por modelo. [Licença MIT](https://github.com/rfsants001/gatewright/blob/main/LICENSE).
 
 <p>
   <a href="https://github.com/rfsants001/gatewright#desktop-screenshots">
@@ -45,9 +45,8 @@ O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de c
   </a>
 </p>
 
-[Ver telas do desktop](https://github.com/rfsants001/gatewright#desktop-screenshots) · [Licença MIT](https://github.com/rfsants001/gatewright/blob/main/LICENSE).
-
 <p>
+  <a href="https://github.com/rfsants001/gatewright#desktop-screenshots"><img src="profile-assets/link-telas-desktop.svg" width="168" height="33" align="absmiddle" alt="Ver telas do Gatewright no desktop" /></a>
   <a href="https://github.com/rfsants001/gatewright"><img src="profile-assets/link-codigo.svg" width="130" height="33" align="absmiddle" alt="Ver código do Gatewright" /></a>
   <a href="https://github.com/rfsants001/gatewright#install"><img src="profile-assets/link-instalacao.svg" width="125" height="33" align="absmiddle" alt="Instalar Gatewright" /></a>
 </p>
@@ -60,12 +59,16 @@ O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de c
   </a>
 </p>
 
-O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência semanal. Dá pra marcar o que fez, rever o histórico e baixar um backup. Ele roda no navegador e você pode hospedar na sua própria máquina ou servidor. [Como instalar](https://github.com/rfsants001/habithub#install).
+O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência semanal. Dá pra marcar o que fez, rever o histórico e baixar um backup. Ele roda no navegador e você pode hospedar na sua própria máquina ou servidor.
 
-## Outros projetos
+**[Como instalar](https://github.com/rfsants001/habithub#install)** · [Ver as telas](https://github.com/rfsants001/habithub#screenshots)
+
+## Dungeon Forge
 
 <p>
-  <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/dungeon-forge-card.svg" width="49%" alt="Dungeon Forge. Gerador de masmorras com uma ilustração de mapa em grade." /></a>
+  <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/dungeon-forge-card.svg" width="400" alt="Dungeon Forge. Gerador de masmorras com uma ilustração de mapa em grade." /></a>
 </p>
 
-- **[Dungeon Forge](https://github.com/rfsants001/dungeon-forge)** gera mapas de masmorras pra sessões de D&D e outros RPGs de mesa. Usa React, TypeScript e Canvas. [Licença MIT](https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE).
+Gerador procedural de masmorras pra sessões de D&D e outros RPGs de mesa. Feito com React, TypeScript e Canvas.
+
+**[Ver o código](https://github.com/rfsants001/dungeon-forge)** · [Licença MIT](https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE)

@@ -1,31 +1,38 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="820" height="242" viewBox="0 0 820 242">
-  <style>
-    text {font-family: system-ui, sans-serif}
-    .mono {font-family: ui-monospace, 'DejaVu Sans Mono', monospace}
-.surface {fill:#161d1b;stroke:#33443b}
-    .panel {fill:#111714;stroke:#3a4b41}
-    .ink {fill:#f7f1e5}
-    .soft {fill:#bad0c0}
-    .accent {fill:#e5b37b}
-    .mint {fill:#b0d6a8}
-    .line {stroke:#3a4b41}
-  </style>
-<rect x=".5" y=".5" width="819" height="241" rx="10" class="surface"/>
-  <g transform="translate(32 33)">
-    <rect width="42" height="42" rx="8" fill="#26342b" stroke="#52664f"/>
-    <path d="M10 33V13a4 4 0 0 1 4-4h14a4 4 0 0 1 4 4v9M10 18h22" fill="none" stroke="#e5b37b" stroke-linecap="round" stroke-width="2.3"/>
-    <path d="m23 28 5 5 9-11" fill="none" stroke="#b0d6a8" stroke-width="2.3" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="228" viewBox="0 0 820 228" role="img" aria-labelledby="title desc">
+  <title id="title">Gatewright</title>
+  <desc id="desc">Regras para agentes de código. Desktop, terminal e MCP. Exemplo: secret-guard bloqueia a leitura de .env.</desc>
+  <rect x=".5" y=".5" width="819" height="227" rx="12" fill="#101014" stroke="#2a2a34"/>
+
+  <g transform="translate(32 34) scale(1.64)">
+    <rect x=".5" y=".5" width="27" height="27" rx="7" fill="#2b1727" stroke="#63354f"/>
+    <path d="M5.18 8.06h10.8l3.6 3.6H9.14v8.64l-3.96-3.42zM12.56 14.72H23v4.68L19.22 23v-4.5h-6.66z" fill="#fd82c6"/>
   </g>
-  <text x="31" y="133" font-size="54" font-weight="740" letter-spacing="-2" class="ink">Gatewright</text>
-  <text x="34" y="171" font-size="23" class="soft">Regras para agentes de código</text>
-  <text x="34" y="211" class="mono accent" font-size="15">CLI   /   TUI   /   MCP</text>
-  <rect x="421" y="32" width="367" height="177" rx="7" class="panel"/>
-  <path d="M421 66h367" class="line"/>
-  <text x="440" y="54" class="mono soft" font-size="14">gate --help</text>
-  <text x="440" y="97" class="mono ink" font-size="16"><tspan class="mint">$</tspan> gate --help</text>
-  <text x="440" y="127" class="mono soft" font-size="14">Usage: gate [command] [options]</text>
-  <text x="440" y="156" class="mono accent" font-size="15">doctor</text>
-  <text x="540" y="156" class="mono ink" font-size="14">diagnose the setup</text>
-  <text x="440" y="184" class="mono accent" font-size="15">history</text>
-  <text x="540" y="184" class="mono ink" font-size="14">configuration change history</text>
+
+  <g font-family="Geist, system-ui, sans-serif">
+    <text x="92" y="70" font-size="43" font-weight="700" letter-spacing="-2.1" fill="#f5f2f7">Gatewright</text>
+    <text x="32" y="122" font-size="26" fill="#aaa6b6">Regras para agentes</text>
+    <text x="32" y="153" font-size="26" fill="#aaa6b6">de código</text>
+  </g>
+  <g font-family="ui-monospace, 'Liberation Mono', monospace" font-size="14" fill="#fd82c6">
+    <text x="32" y="191">Desktop</text>
+    <text x="127" y="191">Terminal</text>
+    <text x="230" y="191">MCP</text>
+    <path d="M108 180v14m103-14v14" stroke="#63354f" fill="none"/>
+  </g>
+
+  <g transform="translate(396 32)">
+    <rect x=".5" y=".5" width="391" height="163" rx="9" fill="#15151b" stroke="#2a2a34"/>
+    <path d="M1 43.5h390m-369 77h348" stroke="#2a2a34" fill="none"/>
+    <g font-family="Geist, system-ui, sans-serif">
+      <text x="22" y="27" font-size="15" font-weight="600" fill="#aaa6b6">Verificação de regra</text>
+      <text x="22" y="145" font-size="14" fill="#aaa6b6">Regra</text>
+      <rect x="261" y="75" width="109" height="28" rx="5" fill="#2c1b2a" stroke="#63354f"/>
+      <circle cx="274" cy="89" r="2.5" fill="#fd82c6"/>
+      <text x="285" y="94" font-size="14" font-weight="600" fill="#fd82c6">Bloqueado</text>
+    </g>
+    <g font-family="ui-monospace, 'Liberation Mono', monospace">
+      <text x="22" y="96" font-size="19" fill="#f5f2f7">Leitura de .env</text>
+      <text x="370" y="145" text-anchor="end" font-size="14" fill="#aaa6b6">secret-guard</text>
+    </g>
+  </g>
 </svg>

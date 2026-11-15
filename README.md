@@ -28,6 +28,16 @@ O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de c
   <a href="https://github.com/rfsants001/gatewright#install"><img src="profile-assets/link-instalacao.svg" width="125" height="33" align="absmiddle" alt="Instalar Gatewright" /></a>
 </p>
 
+## HabitHub
+
+<p>
+  <a href="https://github.com/rfsants001/habithub">
+    <img src="profile-assets/habithub-banner.webp" width="100%" alt="Conheça o HabitHub, meu app de hábitos. Prévia da tela Hoje com o resumo da semana." />
+  </a>
+</p>
+
+O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência semanal. Dá pra marcar o que fez, rever o histórico e baixar um backup. Ele roda no navegador e você pode hospedar na sua própria máquina ou servidor. [Como instalar](https://github.com/rfsants001/habithub#install).
+
 ## Outros projetos
 
 <p>

@@ -21,7 +21,11 @@ Sou o Rafa, desenvolvedor front-end e designer. Aqui estão os projetos que cons
 
 A Forja é meu diário de treino de força. Dá pra planejar a semana no PC, registrar séries no celular mesmo offline e acompanhar a evolução da carga. Pra sincronizar os aparelhos, use seu próprio servidor.
 
-**[Conhecer a Forja](https://github.com/rfsants001/forja)** · [Rodar localmente](https://github.com/rfsants001/forja#rodar-localmente) · [Sincronizar PC e celular](https://github.com/rfsants001/forja#sincronizar-pc-e-celular)
+<p>
+  <a href="https://github.com/rfsants001/forja"><img src="profile-assets/link-conhecer-forja.svg" width="167" height="33" align="absmiddle" alt="Conhecer a Forja" /></a>
+  <a href="https://github.com/rfsants001/forja#rodar-localmente"><img src="profile-assets/link-rodar-localmente.svg" width="171" height="33" align="absmiddle" alt="Rodar a Forja localmente" /></a>
+  <a href="https://github.com/rfsants001/forja#sincronizar-pc-e-celular"><img src="profile-assets/link-sincronizar.svg" width="214" height="33" align="absmiddle" alt="Sincronizar a Forja no PC e no celular" /></a>
+</p>
 
 <details>
   <summary>Ver a Forja no desktop e no celular</summary>
@@ -61,7 +65,10 @@ O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de c
 
 O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência semanal. Dá pra marcar o que fez, rever o histórico e baixar um backup. Ele roda no navegador e você pode hospedar na sua própria máquina ou servidor.
 
-**[Como instalar](https://github.com/rfsants001/habithub#install)** · [Ver as telas](https://github.com/rfsants001/habithub#screenshots)
+<p>
+  <a href="https://github.com/rfsants001/habithub#install"><img src="profile-assets/link-instalacao.svg" width="125" height="33" align="absmiddle" alt="Instalar HabitHub" /></a>
+  <a href="https://github.com/rfsants001/habithub#screenshots"><img src="profile-assets/link-ver-telas.svg" width="132" height="33" align="absmiddle" alt="Ver as telas do HabitHub" /></a>
+</p>
 
 ## Dungeon Forge
 
@@ -71,4 +78,7 @@ O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência se
 
 Gerador procedural de masmorras pra sessões de D&D e outros RPGs de mesa. Feito com React, TypeScript e Canvas.
 
-**[Ver o código](https://github.com/rfsants001/dungeon-forge)** · [Licença MIT](https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE)
+<p>
+  <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/link-codigo.svg" width="130" height="33" align="absmiddle" alt="Ver código do Dungeon Forge" /></a>
+  <a href="https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE"><img src="profile-assets/link-licenca-mit.svg" width="136" height="33" align="absmiddle" alt="Licença MIT do Dungeon Forge" /></a>
+</p>

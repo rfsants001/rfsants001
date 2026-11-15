@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="171" height="33" viewBox="0 0 171 33">
+  <style>
+    text {font-family: system-ui, sans-serif}
+.surface {fill:#f6f1e8;stroke:#d6cabe}
+    .ink {fill:#493830}
+    .stroke {stroke:#493830}
+    @media (prefers-color-scheme:dark) {
+      .surface {fill:#26221f;stroke:#554940}
+      .ink {fill:#f0dfce}
+      .stroke {stroke:#f0dfce}
+    }
+  </style>
+<rect x=".5" y=".5" width="170" height="32" rx="6" class="surface"/>
+  <g transform="translate(10 7)" class="stroke" fill="none" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"><path d="M3 4h14v12H3zM6 8l3 2-3 2m5 0h3"/></g>
+  <text x="36" y="21" class="ink" font-size="12.5" font-weight="650">Rodar localmente</text>
+  <path d="M149 20l7-7m-5 0h5v5" fill="none" stroke-width="1.1" stroke-linecap="round" stroke-linejoin="round" class="stroke"/>
+</svg>

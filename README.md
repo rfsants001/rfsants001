@@ -13,13 +13,15 @@ Sou o Rafa. Trabalho com front-end e design. Nos meus projetos, vou de uma CLI p
 
 ## Gatewright
 
+O Gatewright leva as regras do repositório pra dentro do fluxo dos agentes de código. Ele pode bloquear ações como a leitura de um `.env` e registra o motivo no histórico. No desktop, dá pra conectar agentes, acompanhar execuções, revisar mudanças e ver o consumo por dia e por modelo.
+
 <p>
-  <a href="https://github.com/rfsants001/gatewright">
-    <img src="profile-assets/gatewright-destaque.svg" width="100%" alt="Gatewright. Trecho da ajuda do terminal com os comandos doctor e history." />
+  <a href="https://github.com/rfsants001/gatewright#desktop-screenshots">
+    <img src="https://raw.githubusercontent.com/rfsants001/gatewright/main/docs/screenshots/desktop-usage.webp" width="100%" alt="Gatewright Desktop. Painel de consumo com gráficos de custo por dia e por modelo, totais de tokens e execuções recentes." />
   </a>
 </p>
 
-O Gatewright leva as regras do projeto pra dentro do fluxo do agente. Se ele tenta ler um `.env` ou editar algo fora do escopo, o Gatewright pode bloquear a ação e deixar o motivo no histórico. As regras ficam versionadas junto do código. [Licença MIT](https://github.com/rfsants001/gatewright/blob/main/LICENSE).
+*Gatewright no Linux com dados de demonstração.* [Ver mais telas](https://github.com/rfsants001/gatewright#desktop-screenshots) · [Licença MIT](https://github.com/rfsants001/gatewright/blob/main/LICENSE).
 
 <p>
   <a href="https://github.com/rfsants001/gatewright"><img src="profile-assets/link-codigo.svg" width="130" height="33" align="absmiddle" alt="Ver código do Gatewright" /></a>

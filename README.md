@@ -1,5 +1,5 @@
 <p>
-  <img src="profile-assets/rafa-devx.svg" width="100%" alt="rafa.devx — Rafael Santos, front-end e design" />
+  <img src="profile-assets/rafael-santos-banner.webp" width="100%" alt="rafa.devx — Rafael Santos, front-end e design" />
 </p>
 
 Sou o Rafa. Trabalho com front-end e design. Nos meus projetos, vou de uma CLI pra agentes de código a um caderno de treino que roda no navegador.
@@ -10,6 +10,30 @@ Sou o Rafa. Trabalho com front-end e design. Nos meus projetos, vou de uma CLI p
   <a href="https://medium.com/@rf.sants001"><img src="profile-assets/link-medium.svg" width="115" height="33" alt="Medium" /></a>&nbsp;
   <a href="https://www.instagram.com/rafa.devx/"><img src="profile-assets/link-instagram.svg" width="130" height="33" alt="Instagram" /></a>
 </p>
+
+## Forja
+
+<p>
+  <a href="https://github.com/rfsants001/forja#telas">
+    <img src="profile-assets/forja-spotlight.webp" width="100%" alt="Forja, diário de treino de força. Prévia do gráfico de evolução no PC e do treino guiado no celular." />
+  </a>
+</p>
+
+A Forja é meu diário de treino de força. Planeje a semana no PC, registre séries no celular mesmo offline e acompanhe sua evolução. Você pode sincronizar os aparelhos usando um servidor que roda na sua própria máquina.
+
+**[Conhecer a Forja](https://github.com/rfsants001/forja)** · [Ver as telas](https://github.com/rfsants001/forja#telas) · [Rodar localmente](https://github.com/rfsants001/forja#rodar-localmente).
+
+<details>
+  <summary>Ver a Forja no desktop e no celular</summary>
+  <br />
+  <a href="https://github.com/rfsants001/forja#telas">
+    <img src="profile-assets/forja-desktop-current.webp" width="820" alt="Forja no desktop com o gráfico de carga, a rotina de hoje e a agenda semanal." />
+  </a>
+  <p>
+    <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-mobile-current.webp" width="220" alt="Forja no celular com a rotina de hoje e o gráfico de evolução de carga." /></a>
+    <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-treino-current.webp" width="220" alt="Treino guiado no celular com registro de séries e carga." /></a>
+  </p>
+</details>
 
 ## Gatewright
 
@@ -41,21 +65,7 @@ O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência se
 ## Outros projetos
 
 <p>
-  <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-card-current.webp" width="49%" alt="Forja. Caderno de treino, agenda e últimos registros na versão desktop." /></a>
   <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/dungeon-forge-card.svg" width="49%" alt="Dungeon Forge. Gerador de masmorras com uma ilustração de mapa em grade." /></a>
 </p>
 
-- **[Forja](https://github.com/rfsants001/forja)** é meu diário de treino de força. Dá pra planejar a semana, registrar séries e ver o que tentar no próximo treino. Roda no desktop e no celular, com instalação como PWA. [Ver as telas](https://github.com/rfsants001/forja#telas) · [Rodar localmente](https://github.com/rfsants001/forja#rodar-localmente).
 - **[Dungeon Forge](https://github.com/rfsants001/dungeon-forge)** gera mapas de masmorras pra sessões de D&D e outros RPGs de mesa. Usa React, TypeScript e Canvas. [Licença MIT](https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE).
-
-<details>
-  <summary>Ver a Forja no desktop e no celular</summary>
-  <br />
-  <a href="https://github.com/rfsants001/forja#telas">
-    <img src="profile-assets/forja-desktop-current.webp" width="820" alt="Forja no desktop com sessão de hoje, agenda semanal e últimos treinos." />
-  </a>
-  <p>
-    <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-mobile-current.webp" width="220" alt="Tela Hoje da Forja no celular, com agenda semanal." /></a>
-    <a href="https://github.com/rfsants001/forja#telas"><img src="profile-assets/forja-treino-current.webp" width="220" alt="Treino guiado no celular com registro de séries e carga." /></a>
-  </p>
-</details>

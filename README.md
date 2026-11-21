@@ -73,7 +73,7 @@ O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência se
 ## Dungeon Forge
 
 <p>
-  <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/dungeon-forge-card.svg" width="400" alt="Dungeon Forge. Gerador de masmorras com uma ilustração de mapa em grade." /></a>
+  <a href="https://github.com/rfsants001/dungeon-forge#telas"><img src="https://raw.githubusercontent.com/rfsants001/dungeon-forge/main/.github/assets/banner.webp" width="100%" alt="Dungeon Forge. Prepare a próxima aventura. Logo, ambientação da forja e mapa gerado no aplicativo." /></a>
 </p>
 
 O Dungeon Forge ajuda o mestre a preparar sessões de D&D 2024. Dá pra gerar a masmorra conforme o grupo e a dificuldade, editar criaturas, baús e armadilhas e mostrar aos jogadores a imagem de uma criatura ou as salas reveladas. A ficha fica na mesa do mestre. O MVP roda no navegador com HTML, CSS, JavaScript e mapa SVG, salva no próprio dispositivo e pode ser hospedado no seu servidor.

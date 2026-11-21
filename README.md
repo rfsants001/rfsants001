@@ -76,9 +76,10 @@ O HabitHub é meu app pra acompanhar hábitos diários e metas de frequência se
   <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/dungeon-forge-card.svg" width="400" alt="Dungeon Forge. Gerador de masmorras com uma ilustração de mapa em grade." /></a>
 </p>
 
-Gerador procedural de masmorras pra sessões de D&D e outros RPGs de mesa. Feito com React, TypeScript e Canvas.
+O Dungeon Forge ajuda o mestre a preparar sessões de D&D 2024. Dá pra gerar a masmorra conforme o grupo e a dificuldade, editar criaturas, baús e armadilhas e mostrar aos jogadores a imagem de uma criatura ou as salas reveladas. A ficha fica na mesa do mestre. O MVP roda no navegador com HTML, CSS, JavaScript e mapa SVG, salva no próprio dispositivo e pode ser hospedado no seu servidor.
 
 <p>
   <a href="https://github.com/rfsants001/dungeon-forge"><img src="profile-assets/link-codigo.svg" width="130" height="33" align="absmiddle" alt="Ver código do Dungeon Forge" /></a>
+  <a href="https://github.com/rfsants001/dungeon-forge#rodar-localmente"><img src="profile-assets/link-rodar-localmente.svg" width="171" height="33" align="absmiddle" alt="Rodar o Dungeon Forge localmente" /></a>
   <a href="https://github.com/rfsants001/dungeon-forge/blob/main/LICENSE"><img src="profile-assets/link-licenca-mit.svg" width="136" height="33" align="absmiddle" alt="Licença MIT do Dungeon Forge" /></a>
 </p>
